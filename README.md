@@ -4,6 +4,9 @@ Text Extraction, Speaker Separation, Feature Extraction
 how to run?
 1. Put mp4 file into video folder (by user)
 2. Run CreeTT.ipynb
+   Then the below will run automatically.
+
+   RUN
 	-> convert video to audio
 	-> ectract text
 	-> save text in timeline folder
