@@ -1,17 +1,17 @@
-# CreamoSTT
-텍스트 추출, 화자 분리, 특징 추출
+[CreamoSTT]
+Text Extraction, Speaker Separation, Feature Extraction
 
 how to run?
-1. video 폴더에 mp4 넣기 (사용자가 직접 넣어야 함)
-2. CreamoSTT.ipynb실행
-	-> 영상을 음성으로 변환
-	-> 텍스트 추출
-	-> 텍스트를 timeline폴더에 저장
-	-> 맞춤법검사
-	-> 음성파일을 timestamp에 맞게 분할 (speaker_test폴더)
-	-> teacher / student 음성구분 (speaker_test폴더에 teacher / student 폴더 생성_음성)
-	-> teacher / student 텍스트 구분(timeline폴더에 teacher / student 생성_ 텍스트)
-	-> 폴더정리
-   ->#특징추출(미완_주석)
+1. Put mp4 file into video folder (by user)
+2. Run CreeTT.ipynb
+	-> convert video to audio
+	-> ectract text
+	-> save text in timeline folder
+	-> check the spelling
+	-> Split voice file according to timestamp (speaker_test folder)
+	-> teacher / student voice classification (make teacher & student folder in speaker_test folder -> audio file)
+	-> teacher / student text classification (make teacher & student in timeline folder -> text file)
+	-> Organize folders
+   ->extract features (미완_주석)
 
-speaker_learn폴더는 google drive에 위치(용량 상 github에 넣지못함)
+speaker_learn folder is in my google drive (too big to put in my github)
