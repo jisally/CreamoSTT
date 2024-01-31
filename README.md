@@ -6,7 +6,7 @@ how to run?
 2. Run CreeTT.ipynb
    Then the below will run automatically.
 
-   RUN
+   RUN   
 	-> convert video to audio   
 	-> ectract text   
 	-> save text in timeline folder   
