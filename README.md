@@ -15,6 +15,6 @@ how to run?
 	-> teacher / student voice classification (make teacher & student folder in speaker_test folder -> audio file)   
 	-> teacher / student text classification (make teacher & student in timeline folder -> text file)   
 	-> Organize folders   
-   ->extract features (TBD)   
+   ->extract features (TBD / ex.Extracting highly repeated words & Similarity check for each word)    
      
 speaker_learn folder is in my google drive (too big to put in my github)
