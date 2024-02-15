@@ -11,11 +11,24 @@ Then, analyze these utterances to extract features.
 <hr/>
 230703-230829 , KIST_Creamo
 <br/><br/>
-how to run?
+<h1>:gear: Environment Setting</h1>
+<hr/>
+<ul>
+  <li><b>IDE: </b> Google Colab</li>
+</ul>
+<br/><br/>
+<h1>▶ How to RUN? </h1>
+<hr/>
 1. Put mp4 file into video folder (by user)
 2. Run CreeTT.ipynb
-   Then the below will run automatically.
 
+  <a target="_blank" href="https://colab.research.google.com/github/jisally/CreamoSTT/blob/main/">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+<br/><br/>
+<h1> ➕ Details </h1>
+<hr/>
    RUN   
 	-> convert video to audio   
 	-> ectract text   
