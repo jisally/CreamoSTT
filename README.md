@@ -22,7 +22,7 @@ Then, analyze these utterances to extract features.
 1. Put mp4 file into video folder (by user)<br/>
 2. Run CreeTT.ipynb<br/><br/>
 
-  <a target="_blank" href="https://colab.research.google.com/github/jisally/CreamoSTT/blob/main/CreamoSTT">
+  <a target="_blank" href="https://colab.research.google.com/github/jisally/CreamoSTT/blob/main/CreamoSTT.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
