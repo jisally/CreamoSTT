@@ -1,6 +1,16 @@
-[CreamoSTT]
-Text Extraction, Speaker Separation, Feature Extraction
-
+<h1> Creamo STT </h1>
+<hr/>
+Extract timestamps and text per speaker from the video to extract features
+<br/><br/>
+<h1> 🔈 Project Introduction </h1>
+<hr/>
+Train the voices of the teacher and the child to separate speakers, then extract the conversation content of each speaker per timestamp.<br/>
+Then, analyze these utterances to extract features.
+<br/><br/>
+<h1>:calendar: When? </h1>
+<hr/>
+230703-230829 , KIST_Creamo
+<br/><br/>
 how to run?
 1. Put mp4 file into video folder (by user)
 2. Run CreeTT.ipynb
