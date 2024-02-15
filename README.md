@@ -19,10 +19,10 @@ Then, analyze these utterances to extract features.
 <br/><br/>
 <h1>▶ How to RUN? </h1>
 <hr/>
-1. Put mp4 file into video folder (by user)
-2. Run CreeTT.ipynb
+1. Put mp4 file into video folder (by user)<br/>
+2. Run CreeTT.ipynb<br/><br/>
 
-  <a target="_blank" href="https://colab.research.google.com/github/jisally/CreamoSTT/blob/main/">
+  <a target="_blank" href="https://colab.research.google.com/github/jisally/CreamoSTT/blob/main/CreamoSTT">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -30,14 +30,14 @@ Then, analyze these utterances to extract features.
 <h1> ➕ Details </h1>
 <hr/>
    RUN   
-	-> convert video to audio   
-	-> ectract text   
-	-> save text in timeline folder   
-	-> check the spelling   
-	-> Split voice file according to timestamp (speaker_test folder)   
-	-> teacher / student voice classification (make teacher & student folder in speaker_test folder -> audio file)   
-	-> teacher / student text classification (make teacher & student in timeline folder -> text file)   
-	-> Organize folders   
-   ->extract features (TBD / ex.Extracting highly repeated words & Similarity check for each word)    
-     
+	-> convert video to audio<br/>
+	-> ectract text<br/>
+	-> save text in timeline folder<br/>
+	-> check the spelling<br/>
+	-> Split voice file according to timestamp (speaker_test folder)<br/>
+	-> teacher / student voice classification (make teacher & student folder in speaker_test folder -> audio file)<br/>
+	-> teacher / student text classification (make teacher & student in timeline folder -> text file)<br/>
+	-> Organize folders<br/>
+   ->extract features (TBD / ex.Extracting highly repeated words & Similarity check for each word)<br/>
+<br/>
 speaker_learn folder is in my google drive (too big to put in my github)
