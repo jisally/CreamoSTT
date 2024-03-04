@@ -20,7 +20,7 @@ Then, analyze these utterances to extract features.
 <h1>▶ How to RUN? </h1>
 <hr/>
 1. Put mp4 file into video folder (by user)<br/>
-2. Run CreamoTT.ipynb<br/><br/>
+2. Run CreamoSTT.ipynb<br/><br/>
 
   <a target="_blank" href="https://colab.research.google.com/github/jisally/CreamoSTT/blob/main/CreamoSTT.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
